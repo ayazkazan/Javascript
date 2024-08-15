@@ -1,6 +1,6 @@
 ## JavaScript'te String: Metinleri Anlamak ve Kullanmak
 
-JavaScript'te, metinleri temsil etmek ve üzerinde işlem yapmak için kullanılan temel veri tiplerinden biri **string**'dir. Stringler, tek tırnak (`'`) veya çift tırnak (`"`) yada (``) içine alınmış karakter dizileridir. 
+JavaScript'te, metinleri temsil etmek ve üzerinde işlem yapmak için kullanılan temel veri tiplerinden biri **string**'dir. Stringler, tek tırnak (`'`) veya çift tırnak (`"`) yada (`) içine alınmış karakter dizileridir. 
 
 **String'lerin Özellikleri:**
 
