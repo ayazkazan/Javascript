@@ -60,12 +60,6 @@ console.log(buyukHarfMi("b")); // false
 
 Bu örnekte, `buyukHarfMi()` fonksiyonu ile bir karakterin büyük harf olup olmadığını kontrol ediyoruz.  Büyük harflerin Unicode değerleri 65 (A) ile 90 (Z) arasındadır.
 
-**Sonuç**
-
-`charCodeAt()` metodu, string ifadeler üzerinde karakter bazlı işlemler yaparken oldukça kullanışlıdır. Özellikle karakter kodlamaları ile çalışmanız gereken durumlarda bu metodu kullanabilirsiniz. 
-
-
-## charCodeAt() Metodu: Daha Fazla Örnek
 
 **Örnek 5: Emoji karakterinin Unicode değerini bulma**
 
